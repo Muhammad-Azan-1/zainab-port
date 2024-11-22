@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 const Hero = () => {
   return (
-    <div id='hero' className='min-h-screen bg-no-repeat bg-[url(/image1.jpg)] bg-left lg:bg-[2%] bg-cover'
+    <div id='hero' className='min-h-screen bg-no-repeat bg-[url(/Images/image1.jpg)] bg-left lg:bg-[2%] bg-cover'
     style={{backgroundSize: "31%",
             backgroundPosition: "left 60px top 60px"
     }}>
